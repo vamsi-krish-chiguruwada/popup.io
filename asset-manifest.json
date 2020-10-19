@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/popup.io/static/css/main.adf09757.chunk.css",
-    "main.js": "/popup.io/static/js/main.52b72db3.chunk.js",
-    "main.js.map": "/popup.io/static/js/main.52b72db3.chunk.js.map",
+    "main.js": "/popup.io/static/js/main.795206c7.chunk.js",
+    "main.js.map": "/popup.io/static/js/main.795206c7.chunk.js.map",
     "runtime-main.js": "/popup.io/static/js/runtime-main.9962f97f.js",
     "runtime-main.js.map": "/popup.io/static/js/runtime-main.9962f97f.js.map",
     "static/js/2.338250b1.chunk.js": "/popup.io/static/js/2.338250b1.chunk.js",
     "static/js/2.338250b1.chunk.js.map": "/popup.io/static/js/2.338250b1.chunk.js.map",
     "index.html": "/popup.io/index.html",
-    "precache-manifest.0e17309e31ca17e005464403f26042b2.js": "/popup.io/precache-manifest.0e17309e31ca17e005464403f26042b2.js",
+    "precache-manifest.307e6001ca253ac930578bcd810ccf66.js": "/popup.io/precache-manifest.307e6001ca253ac930578bcd810ccf66.js",
     "service-worker.js": "/popup.io/service-worker.js",
     "static/css/main.adf09757.chunk.css.map": "/popup.io/static/css/main.adf09757.chunk.css.map",
     "static/js/2.338250b1.chunk.js.LICENSE.txt": "/popup.io/static/js/2.338250b1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9962f97f.js",
     "static/js/2.338250b1.chunk.js",
     "static/css/main.adf09757.chunk.css",
-    "static/js/main.52b72db3.chunk.js"
+    "static/js/main.795206c7.chunk.js"
   ]
 }
