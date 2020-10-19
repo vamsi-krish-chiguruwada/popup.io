@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15ef3b7d4a538b71622b7b4b45b73a9f",
+    "revision": "446c8e055c7892de5826b8a0deaa9b2e",
     "url": "/popup.io/index.html"
   },
   {
-    "revision": "7d0d86e4e3981a91343f",
-    "url": "/popup.io/static/css/main.0e442351.chunk.css"
+    "revision": "315b0c365e27921aefe0",
+    "url": "/popup.io/static/css/main.adf09757.chunk.css"
   },
   {
     "revision": "66625c37a1b56919d3c1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/popup.io/static/js/2.338250b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d0d86e4e3981a91343f",
-    "url": "/popup.io/static/js/main.7cfc7f79.chunk.js"
+    "revision": "315b0c365e27921aefe0",
+    "url": "/popup.io/static/js/main.52b72db3.chunk.js"
   },
   {
     "revision": "c5971cc657d1b89125dd",
